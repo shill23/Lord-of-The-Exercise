@@ -14,5 +14,5 @@ Firebase Features includes:\
 
 Next version updates include:\
 1.) Billing text messages\
-2.) Calendar invites for classes that members signed up for. \
+2.) Calendar invites for classes that members signed up for.\
 3.) Automated Emails wil be sent to users near the end of the users billing cycle.\
