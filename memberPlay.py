@@ -8,9 +8,9 @@ import firebase_admin
 import json
 
 # Path to json file that stores my credentials
-cred = credentials.Certificate('the path to your cred file.json')
+cred = credentials.Certificate('the_path_to_your_cred_file.json')
 # Project ID
-project_id = 'bobsburgers-5d057'
+project_id = 'your_project_id'
 firebase_admin.initialize_app(cred, {
   'projectId': project_id,
 })
